@@ -1,4 +1,4 @@
-# Violence Detection System - Requirements
+# Multi-Modal Violence Detection System - Requirements
 
 # Core Deep Learning Framework
 tensorflow>=2.10.0,<2.16.0
@@ -7,6 +7,15 @@ keras>=2.10.0
 # Computer Vision
 opencv-python>=4.7.0.72
 opencv-contrib-python>=4.7.0.72
+
+# Pose Detection (MediaPipe)
+mediapipe>=0.10.8
+
+# Emotion Detection (DeepFace)
+deepface>=0.0.79
+
+# TF-Keras compatibility for DeepFace
+tf-keras>=2.15.0
 
 # Numerical Computing
 numpy>=1.23.0,<2.0.0
