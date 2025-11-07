@@ -267,14 +267,6 @@ Contributions are welcome! Please:
 4. Push to the branch
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
-## 👤 Author
-
-**Deep Learning Engineer** - Violence Detection System Specialist
-
 ## 📧 Support
 
 For questions, issues, or suggestions:
